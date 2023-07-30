@@ -10,7 +10,7 @@ const PreDefinedExpenses = [
     amount: 94.12,
     date: new Date(2020, 7, 14),
   },
-  {
+  { // Thhis is new pra
      id: "e2",
     title: "New TV",
     amount: 799.49,
